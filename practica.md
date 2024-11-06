@@ -4,7 +4,9 @@
 1. persona
 1. persona
 
-. hola
+
 - Hola
 
 - Hola
+
+Repaso de la tarea de la semana pasada. 
