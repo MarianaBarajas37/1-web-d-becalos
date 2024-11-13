@@ -21,3 +21,18 @@ background-clip: text;
 color: transparent;
 }
 
+#Parrafo2{background: border-box;
+    width: 200px;
+    height: 90px;
+
+}
+span{color: blueviolet;
+    background-color: beige;
+    padding: 10px;
+    border: solid 5px rgb(0, 0, 0);
+    display: block;
+    margin: 16px;
+    width: 200px;
+    text-align: center;
+}
+
