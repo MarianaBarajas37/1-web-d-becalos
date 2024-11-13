@@ -1,0 +1,23 @@
+body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color: aquamarine;
+}
+
+
+
+h1{background-color: blanchedalmond;margin-block-start: 0.67;padding-block-start: 4px;padding-block-end:8px ;
+padding-left: 20px;padding-right: 1px;
+padding-inline: 50px 10px;
+border: solid 3px rgb(6, 7, 8);
+margin-block-start: 30px;
+}
+
+p{background-color: aliceblue;
+    padding: 16px;
+    border:5px dotted black ;
+}
+#Parrafo1{
+background: linear-gradient(90deg,red,orange,yellow);
+background-clip: text;
+color: transparent;
+}
+
