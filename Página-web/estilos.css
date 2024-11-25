@@ -1,0 +1,44 @@
+body{
+    background-color: #FFF7F0;
+    color: #030303;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav img{
+    width: 64px;
+    aspect-ratio: 1;
+}
+#call-to-action{
+    background-color: #030303;
+    color:#FFF7F0 ;
+    text-decoration: dashed;
+    width: 228;
+    padding: 14px 45px;
+    border-radius: 100px;
+}
+.text-container{
+    text-align: center;
+}
+.text-container p{
+    color: #7A746E;
+}
+
+h1{
+    font: size 56px;
+    margin-block-end: 22px;
+}
+.image-container{
+    display: flex;
+    background-color: aquamarine;
+    gap: 24px;
+}
+.image-container a{
+    aspect-ratio: 30/31;
+    flex-basis: 100%;
+    background-color: aqua;
+    border: solid black 5px;
+}
